@@ -1,27 +1,6 @@
 
-<style>
-    #background {
-        position: fixed;
-        inset: 0;
-        z-index: -1;
 
-        background:
-            repeating-linear-gradient(
-                to bottom,
-                rgba(255, 255, 255, 0.04) 0px,
-                rgba(255, 255, 255, 0.04) 1px,
-                transparent 1px,
-                transparent 5px
-            ),
-            radial-gradient(
-                at center,
-                #242424,
-                #000000
-            );
-    }
-</style>
-
-<div id="background"></div>
+<div style="position: fixed;inset: 0;z-index: -1;background:repeating-linear-gradient(to bottom,rgba(255, 255, 255, 0.04) 0px,rgba(255, 255, 255, 0.04) 1px,transparent 1px,transparent 5px),radial-gradient(at center,#242424,#000000);"></div>
 
 
 # 💻 Tech Stack:
