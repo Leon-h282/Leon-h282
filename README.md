@@ -7,6 +7,11 @@
 ![](https://streak-stats.demolab.com/?user=Leon-h282&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Leon-h282&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# My Projects
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Leon-h282&repo=Leon-h282%2FHandGestureDetector&description_lines_count=1&theme=dark)](https://github.com/Leon-h282/HandGestureDetector)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Leon-h282&repo=Leon-h282%2FVehicle-Tracker&description_lines_count=1&theme=dark)](https://github.com/Leon-h282/Vehicle-Tracker)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Leon-h282&repo=Leon-h282%2FTypingPractice&description_lines_count=1&theme=dark)](https://github.com/Leon-h282/TypingPractice)
+
 ## 🏆 GitHub Trophies
 ![](https://trophy.ryglcloud.net/?username=Leon-h282&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
