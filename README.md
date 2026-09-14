@@ -11,9 +11,9 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=longhoang1208&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # My Projects
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=longhoang1208&repo=longhoang1208%2FHandGestureDetector&description_lines_count=1&theme=aura)](https://github.com/longhoang1208/HandGestureDetector)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=longhoang1208&repo=longhoang1208%2FVehicle-Tracker&description_lines_count=2&theme=neon)](https://github.com/longhoang1208/Vehicle-Tracker)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=longhoang1208&repo=longhoang1208%2FTypingPractice&description_lines_count=1&theme=midnight-purple)](https://github.com/longhoang1208/TypingPractice)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=longhoang1208&repo=longhoang1208%2FHandGestureDetector&description_lines_count=3&theme=aura)](https://github.com/longhoang1208/HandGestureDetector)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=longhoang1208&repo=longhoang1208%2FVehicle-Tracker&description_lines_count=3&theme=neon)](https://github.com/longhoang1208/Vehicle-Tracker)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=longhoang1208&repo=longhoang1208%2FTypingPractice&description_lines_count=3&theme=midnight-purple)](https://github.com/longhoang1208/TypingPractice)
 
 ## 🏆 GitHub Trophies
 ![](https://trophy.ryglcloud.net/?username=longhoang1208&theme=dark&no-frame=false&no-bg=false&margin-w=4)
