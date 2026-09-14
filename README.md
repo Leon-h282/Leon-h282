@@ -15,7 +15,7 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=longhoang1208&repo=longhoang1208%2FVehicle-Tracker&description_lines_count=3&theme=neon)](https://github.com/longhoang1208/Vehicle-Tracker)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=longhoang1208&repo=longhoang1208%2FTypingPractice&description_lines_count=3&theme=midnight-purple)](https://github.com/longhoang1208/TypingPractice)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=longhoang1208&repo=TypingPractice&description_lines_count=3&theme=tokyonight)](https://github.com/longhoang1208/TypingPractice)
 
 ## 🏆 GitHub Trophies
 ![](https://trophy.ryglcloud.net/?username=longhoang1208&theme=dark&no-frame=false&no-bg=false&margin-w=4)
