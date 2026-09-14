@@ -12,7 +12,9 @@
 
 # My Projects
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=longhoang1208&repo=longhoang1208%2FHandGestureDetector&description_lines_count=3&theme=aura)](https://github.com/longhoang1208/HandGestureDetector)
+
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=longhoang1208&repo=longhoang1208%2FVehicle-Tracker&description_lines_count=3&theme=neon)](https://github.com/longhoang1208/Vehicle-Tracker)
+
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=longhoang1208&repo=longhoang1208%2FTypingPractice&description_lines_count=3&theme=midnight-purple)](https://github.com/longhoang1208/TypingPractice)
 
 ## 🏆 GitHub Trophies
