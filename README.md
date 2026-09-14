@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=longhoang1208&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # My Projects
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=longhoang1208&repo=longhoang1208%2FHandGestureDetector&description_lines_count=3&theme=aura)](https://github.com/longhoang1208/HandGestureDetector)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=longhoang1208&repo=HandGestureDetector&description_lines_count=3&theme=algolia)](https://github.com/longhoang1208/HandGestureDetector)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=longhoang1208&repo=longhoang1208%2FVehicle-Tracker&description_lines_count=3&theme=neon)](https://github.com/longhoang1208/Vehicle-Tracker)
 
